@@ -1,17 +1,11 @@
 ## Olá meu nome é Pedro Henrique,
-### Seja bem vindo ao meu GitHub!
-
-<br>
-
+### Seja bem vindo ao meu GitHub! 
 Estou em fase de transição de carreira e em busca da primeira oportunidade! 🤞 
 
-<br>
-
-
-<div align="center">
+<div>
   <a href="https://github.com/PedroHBO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 <h2 style="color:white"> Tecnologias: </h2>
