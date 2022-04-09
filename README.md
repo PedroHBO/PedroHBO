@@ -1,6 +1,6 @@
 ## :man_technologist: Olá meu nome é Pedro Henrique,
 ### Seja bem vindo ao meu GitHub! 
-Estou em fase de transição de carreira e em busca da primeira oportunidade! 🤞 
+
 
 <div>
   <a href="https://github.com/PedroHBO">
