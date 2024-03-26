@@ -3,7 +3,7 @@
 <h3>Seja bem vindo ao meu GitHub!</h3>
 </div>
 <div align="center">
-  <img width="40%" height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&count_private=true"/>
   <img width="40%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
