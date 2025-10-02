@@ -28,9 +28,4 @@
 
 </div>
 
-
-<div align="center">
-<h2 style="color:white">Visitors Count:</h2>
-<p><img src="https://profile-counter.glitch.me/{PedroHBO}/count.svg" /></p> 
-</div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d3d47&height=100&section=footer"/>
