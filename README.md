@@ -32,6 +32,11 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-anurag.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&count_private=true&hide=prs,issues"/>
+  <img height="150em" src="https://github-readme-stats-anurag.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&theme=dark&hide=html,css"/>
+</div>
+
 ---
 
 ## 💼 Experiência Profissional
