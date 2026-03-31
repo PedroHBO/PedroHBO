@@ -1,6 +1,5 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=200&section=header)
+
 
 # 👋Olá, sou Pedro Henrique
 
