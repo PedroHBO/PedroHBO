@@ -1,31 +1,106 @@
 <div align="center">
-<h1>:man_technologist: Olá, meu nome é Pedro Henrique</h1>
-<h3>Seja bem vindo ao meu GitHub!</h3>
-</div>
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=200&section=header)
+
+# 👋Olá, sou Pedro Henrique
+
+**Software Engineer | Data Engineer | Systems Analyst**
+
+> Python | FastAPI | SQL Server | Power Platform | ETL | Business Intelligence
+
+<a href="https://www.linkedin.com/in/PedroHBO" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:pedro.hbo@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/PedroHBO" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://pedrohbo.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfólio-0D9488?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfólio">
+</a>
+
+---
+
+### 🔧 Tech Stack
+
+**Backend & APIs**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Data & BI**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&count_private=true"/>
-  <img width="40%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&count_private=true&hide=prs,issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&theme=dark&hide=html,css"/>
 </div>
 
-<div align="center" style="display: inline_block">
-<h2 style="color:white"> Tecnologias: </h2>
+---
 
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Pedro-C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   <img align="center" alt="Pedro-PSql" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg">
- <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
-</div>
+### 💼 Experiência Profissional
+
+**SENAI CIMATEC** – Systems Analyst | *Aug 2025 – Present*
+- Data Engineering e desenvolvimento de soluções de Business Intelligence
+- Modelagem de dados e desenvolvimento SQL Server (tabelas, views, stored procedures, jobs)
+- Pipelines ETL, Data Warehouses e Data Marts para Power BI
+- Definição de KPIs, previsão de orçamentos e dashboards interativos
+
+**TQC Engenharia** – Systems Analyst | *Sep 2024 – Aug 2025*
+- Implementação de sistemas corporativos com levantamento de requisitos e migração de dados
+- Redesenho de processos de negócio e melhoria contínua
+- Alinhamento de soluções tecnológicas com estratégia de negócio
+
+**Grupo Civil** – Technology Analyst | *Apr 2022 – Aug 2024*
+- Integração entre TOTVS Fluig e RM via SOAP WebServices
+- Migração de relatórios Delphi para RM Reports com otimização SQL
+- Automação de processos com Python (reduziu tempo de execução de 30 min para 5 segundos)
+- Desenvolvimento de soluções usando Microsoft Power Platform
+
+---
+
+### 🎓 Formação
+
+- **Pós-graduação em Software Engineering** – PUC Minas (2024–2025)
+- **Análise e Desenvolvimento de Sistemas** – UNIJORGE (2021–2023)
+- **Engenharia Mecânica** – UNIJORGE (2013–2017)
+
+---
+
+### 🌐 Idiomas
+
+Português: Nativo | Inglês: Intermediário | Espanhol: Básico
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tech |
+|---------|-----------|------|
+| [Gerador-Wa.me](https://github.com/PedroHBO/Gerador-Wa.me) | Automação de mensagens WhatsApp | Node.js, API |
+| [CryptoAPI](https://github.com/PedroHBO/CryptoAPI) | Dashboard de cotações crypto | JavaScript, API, Bootstrap |
+| [GradeCRUD](https://github.com/PedroHBO/GradeCRUD) | App Android com SQLite | Java, Android Studio |
+| [URI-SQL](https://github.com/PedroHBO/URI-SQL) | Desafios de SQL | SQL, PostgreSQL |
+
+---
+
 <div align="center">
-<h2 style="color:white">Meios de comunicação:</h2>
+  
+Obrigado por visitar meu perfil! Feel free to reach out. 🙏
 
-  <a href="https://instagram.com/peeuhbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:Pedro.HBO@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/PedroHBO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=100&section=footer)
 
 </div>
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d3d47&height=100&section=footer"/>
