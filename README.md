@@ -1,14 +1,7 @@
 <div align="center">
 
-<!-- Header Wave -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=200&section=header)
-
 <!-- Animated Emoji Greeting -->
 <h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213325243-9ef8b71c-5083-4d3a-9cd1-e1f5c525034b.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/213325243-9ef8b71c-5083-4d3a-9cd1-e1f5c525034b.gif" width="35"/>
-  </picture>
  Olá, eu sou o <span style="background: linear-gradient(90deg, #00d4ff, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Pedro Henrique</span>!
 </h1>
 
@@ -20,22 +13,6 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
 </sub>
-
-<!-- Social Links -->
-<a href="https://www.linkedin.com/in/PedroHBO" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:pedro.hbo@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/PedroHBO" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://pedrohbo.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfólio-0D9488?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfólio">
-</a>
-
-<br>
 
 ---
 
@@ -54,11 +31,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroHBO&show_icons=true&theme=dark&count_private=true&hide=prs,issues&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHBO&layout=compact&theme=dark&hide=html,css&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
 
 ---
 
